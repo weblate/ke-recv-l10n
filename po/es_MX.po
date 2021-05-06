@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ke-recv 20090529140928\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.05.29 14:09+0300\n"
 "PO-Revision-Date: 2009.05.29 14:09+0300\n"
 "Last-Translator:\n"
