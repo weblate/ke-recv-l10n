@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr ""
+"Mémoire de stockage connectée uniquement. %s déjà en cours d'utilisation."
+
+msgid "card_connected_via_usb_device"
+msgstr ""
+"Seulement %s est connecté. Mémoire de stockage du terminal en cours "
+"d'utilisation."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"La mémoire est en lecture seule jusqu'à résolution du problème.\n"
+"Essayez de résoudre le problème de la mémoire avec un ordinateur après avoir "
+"branché le câble USB.\n"
+"Créez une sauvegarde des données pour conserver le contenu actuel de la "
+"mémoire."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formatage terminé"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Format de la carte mémoire non pris en charge"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Format de la mémoire de stockage du terminal non pris en charge"
+
+msgid "card_ib_usb_disconnected"
+msgstr "Câble USB déconnecté"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Connexion impossible via le port USB.\n"
+"Mémoire de stockage du terminal en cours d'utilisation."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Connexion impossible via le port USB.\n"
+"Mémoires en cours d'utilisation.\n"
+"Mémoire de stockage du terminal\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Formatage mémoire"
+
+msgid "card_ti_corrupted_card"
+msgstr "Carte mémoire corrompue"
+
+msgid "card_ti_corrupted_device"
+msgstr "Mémoire de stockage du terminal corrompue"
+
+msgid "cards_connected_via_usb"
+msgstr "Connecté via USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Mémoire du terminal pleine.\n"
+"Supprimer des données pour libérer de la mémoire."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Carte mémoire pleine.\n"
+"Supprimez des données pour libérer de la mémoire."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Mémoire de stockage du terminal pleine.\n"
+"Supprimer des applications via le gestionnaire d'applications pour libérer "
+"de la mémoire."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Arrêter"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Fermer"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Trop d'applications sont ouvertes.\n"
+"Impossible d'en ouvrir d'autres tant que certaines ne seront pas fermées."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Trop d'applications sont ouvertes.\n"
+"Impossible de basculer vers l'application voulue tant que d'autres ne seront "
+"pas fermées."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Opération temporairement désactivée car la mémoire est insuffisante"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Erreur interne. L'application %s a été fermée."
+
+msgid "memr_ti_close_applications"
+msgstr "Fermer les applications ?"

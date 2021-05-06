@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Podłączono tylko pamięć urządzenia. %s jest już w użyciu."
+
+msgid "card_connected_via_usb_device"
+msgstr "Podłączono tylko: %s. Pamięć urządzenia w użyciu."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Do czasu rozwiązania problemu pamięć będzie nadawać się wyłącznie do "
+"odczytu.\n"
+"Po podłączeniu kabla USB spróbuj rozwiązać problem za pomocą komputera.\n"
+"Aby zapisać istniejącą zawartość pamięci, utwórz kopię zapasową danych."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formatowanie zakończone"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Nieobsługiwany format karty pamięci"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Nieobsługiwany format pamięci urządzenia"
+
+msgid "card_ib_usb_disconnected"
+msgstr "Kabel USB odłączony"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Nie można połączyć za pomocą USB.\n"
+"Pamięć urządzenia w użyciu."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Nie można połączyć za pomocą USB.\n"
+"Pamięci w użyciu.\n"
+"Pamięć urządzenia\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Formatowanie pamięci"
+
+msgid "card_ti_corrupted_card"
+msgstr "Karta pamięci uszkodzona"
+
+msgid "card_ti_corrupted_device"
+msgstr "Pamięć urządzenia uszkodzona"
+
+msgid "cards_connected_via_usb"
+msgstr "Połączenie za pomocą USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Pamięć urządzenia pełna.\n"
+"Usuń dane, aby uzyskać wolne miejsce."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Karta pamięci pełna.\n"
+"Usuń dane, aby uzyskać wolne miejsce."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Pamięć urządzenia pełna.\n"
+"Usuń aplikacje za pomocą Menedżera aplikacji, aby zwolnić pamięć."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Zatrzymaj"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Zamknij"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Zbyt wiele otwartych aplikacji.\n"
+"Aby otworzyć dodatkowe aplikacje, zamknij niektóre otwarte aplikacje."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Zbyt wiele otwartych aplikacji.\n"
+"Aby przejść do żądanej aplikacji, zamknij niektóre otwarte aplikacje."
+
+msgid "memr_ib_operation_disabled"
+msgstr ""
+"Operacja jest chwilowo niemożliwa ze względu na zbyt małą ilość pamięci"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Błąd wewnętrzny. Aplikacja %s została zamknięta."
+
+msgid "memr_ti_close_applications"
+msgstr "Zamknij aplikacje"

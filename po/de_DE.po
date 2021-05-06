@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Nur Gerätespeicher verbunden. %s wird bereits verwendet."
+
+msgid "card_connected_via_usb_device"
+msgstr "Nur %s verbunden. Gerätespeicher wird verwendet."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Speicher bis zur Problemlösung schreibgeschützt.\n"
+"Speicherreparatur über PC nach Anschluss eines USB-Kabels versuchen.\n"
+"Legen Sie zunächst eine Sicherungskopie der Daten an, um die vorhandenen "
+"Speicherinhalte zu sichern."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formatiervorgang abgeschlossen"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Speicherkartenformat nicht unterstützt"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Gerätespeicherformat nicht unterstützt"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB-Verbindung getrennt"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Verbindung über USB kann nicht hergestellt werden.\n"
+"Gerätespeicher wird bereits verwendet."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Verbindung über USB kann nicht hergestellt werden.\n"
+"Speicher werden verwendet.\n"
+"Gerätespeicher\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Speicher wird formatiert"
+
+msgid "card_ti_corrupted_card"
+msgstr "Speicherkarte beschädigt"
+
+msgid "card_ti_corrupted_device"
+msgstr "Gerätespeicher beschädigt"
+
+msgid "cards_connected_via_usb"
+msgstr "Über USB verbunden"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Gerätespeicher voll.\n"
+"Daten entfernen, um Speicherplatz freizugeben."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Speicherkarte voll.\n"
+"Daten entfernen, um Speicherplatz freizugeben."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Gerätespeicher voll.\n"
+"Entfernen Sie über den Programmmanager Programme, um Speicherplatz "
+"freizugeben."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Stopp"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Schließen"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Zu viele Programme geöffnet.\n"
+"Öffnen zusätzlicher Programme nicht möglich, ohne vorher einige Programme zu "
+"schließen."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Zu viele Programme geöffnet.\n"
+"Wechseln zum gewünschten Programm nicht möglich, ohne vorher einige "
+"Programme zu schließen."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Vorgang wegen zu geringer Speicherkapazität vorübergehend deaktiviert"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Interner Fehler. Programm '%s' geschlossen."
+
+msgid "memr_ti_close_applications"
+msgstr "Programme schließen"

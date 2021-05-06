@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Solo memoria di archiviazione connessa. %s già in uso."
+
+msgid "card_connected_via_usb_device"
+msgstr "Solo %s connesso. Memoria di archiviazione in uso."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Memoria di sola lettura fino alla riparazione.\n"
+"Tentare di riparare la memoria inserendo un cavo USB in un PC.\n"
+"Creare prima un backup dei dati per salvare i contenuti esistenti della "
+"memoria."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formattazione completata"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Formato memory card non supportato"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Formato memoria di archiviazione non supportato"
+
+msgid "card_ib_usb_disconnected"
+msgstr "Cavo USB disconnesso"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Impossibile connettersi via USB.\n"
+"Memoria di archiviazione in uso."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Impossibile connettersi via USB.\n"
+"Memoria in uso.\n"
+"Memoria di archiviazione\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Formattazione memoria"
+
+msgid "card_ti_corrupted_card"
+msgstr "Memory card danneggiata"
+
+msgid "card_ti_corrupted_device"
+msgstr "Memoria di archiviazione danneggiata"
+
+msgid "cards_connected_via_usb"
+msgstr "Cavo USB connesso"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"La memoria del dispositivo è piena.\n"
+"Rimuovere i dati per liberare memoria."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Memory card piena.\n"
+"Rimuovere dati per liberare memoria."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Memoria di sistema del dispositivo piena.\n"
+"Rimuovere applicazioni tramite Gestione applicazioni per liberare memoria."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Interrompi"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Chiudi"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Troppe applicazioni aperte.\n"
+"Impossibile aprire altre applicazioni senza chiuderne alcune."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Troppe applicazioni aperte.\n"
+"Impossibile passare all'applicazione richiesta senza chiuderne altre."
+
+msgid "memr_ib_operation_disabled"
+msgstr ""
+"Operazione temporaneamente disattivata a causa di memoria insufficiente"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Errore interno. Applicazione '%s' chiusa."
+
+msgid "memr_ti_close_applications"
+msgstr "Chiudi applicazioni"

@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Připojena pouze paměť přístroje. %s se již používá."
+
+msgid "card_connected_via_usb_device"
+msgstr "Připojena pouze karta %s. Paměť přístroje se používá."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Paměť je chráněna proti zápisu, jestliže není opravena.\n"
+"Zkuste ji opravit po připojení k PC pomocí USB kabelu.\n"
+"Nejprve vytvořte zálohu dat, abyste uchovali stávající obsah paměti."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formátování dokončeno"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Nepodporovaný formát paměťové karty"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Nepodporovaný formát paměti přístroje"
+
+msgid "card_ib_usb_disconnected"
+msgstr "Kabel USB odpojen"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Nelze se připojit přes USB.\n"
+"Paměť přístroje se používá."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Nelze se připojit přes USB.\n"
+"Paměti se používají.\n"
+"Paměť přístroje\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Formátování paměti"
+
+msgid "card_ti_corrupted_card"
+msgstr "Paměťová karta poškozena"
+
+msgid "card_ti_corrupted_device"
+msgstr "Paměť přístroje poškozena"
+
+msgid "cards_connected_via_usb"
+msgstr "Připojeno přes USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Paměť přístroje plná.\n"
+"Uvolněte paměť odstraněním dat."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Paměťová karta plná.\n"
+"Uvolněte paměť odstraněním dat."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Systémová paměť přístroje plná.\n"
+"Uvolněte paměť odstraněním aplikací pomocí Správce aplikací."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Zastavit"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Zavřít"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Příliš mnoho otevřených aplikací.\n"
+"Nelze otevřít další aplikace bez ukončení některých aplikací."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Příliš mnoho otevřených aplikací.\n"
+"Nelze přepnout do požadované aplikace bez ukončení některých aplikací."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Operace dočasně nedostupná pro nedostatek paměti"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Vnitřní chyba. Aplikace „%s“ zavřena."
+
+msgid "memr_ti_close_applications"
+msgstr "Zavřete aplikace"

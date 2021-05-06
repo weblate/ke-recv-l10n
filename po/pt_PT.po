@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Apenas memória do dispositivo ligada. %s já em utilização."
+
+msgid "card_connected_via_usb_device"
+msgstr "Apenas %s ligado. Memória do dispositivo já em utilização."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"A memória é só de leitura até o problema estar solucionado.\n"
+"Tente recuperar a memória com um PC após ligar um cabo USB.\n"
+"Crie primeiro uma cópia de segurança para guardar o conteúdo da memória "
+"existente."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formatação concluída"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Formato de cartão de memória não suportado"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Formato de memória do dispositivo não suportado"
+
+msgid "card_ib_usb_disconnected"
+msgstr "Cabo USB desligado"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Não foi possível ligar por USB.\n"
+"Memória do dispositivo em utilização."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Não foi possível ligar por USB.\n"
+"Memórias em utilização.\n"
+"Memória do dispositivo\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "A formatar memória"
+
+msgid "card_ti_corrupted_card"
+msgstr "Cartão de memória danificado"
+
+msgid "card_ti_corrupted_device"
+msgstr "Memória do dispositivo danificada"
+
+msgid "cards_connected_via_usb"
+msgstr "Ligado por USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Dispositivo de armazenamento cheio.\n"
+"Remova alguns dados para libertar memória."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Cartão de memória cheio.\n"
+"Remova alguns dados para libertar memória."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Armazenamento do sistema do dispositivo cheio.\n"
+"Remova aplicações através do Gestor de aplicações para libertar memória."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Parar"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Fechar"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Demasiadas aplicações abertas.\n"
+"Não é possível abrir aplicações adicionais sem fechar algumas aplicações."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Demasiadas aplicações abertas.\n"
+"Não é possível mudar para a aplicação pretendida sem fechar algumas "
+"aplicações."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Operação desactivada temporariamente devido à falta de memória"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Erro interno. Aplicação '%s' fechada."
+
+msgid "memr_ti_close_applications"
+msgstr "Fechar aplicações"

@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr ""
+"Seule la mémoire du terminal est connectée. %s déjà en cours d'utilisation."
+
+msgid "card_connected_via_usb_device"
+msgstr "Seul %s est connecté. Mémoire du terminal en cours d'utilisation."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"La mémoire sera en lecture seule jusqu'à ce qu'elle soit réparée.\n"
+"Pour ce faire, reliez le terminal à un ordinateur au moyen d'un câble USB.\n"
+"Veillez à créer une sauvegarde au préalable pour ne pas perdre le contenu de "
+"la mémoire."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formatage terminé"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Format de carte mémoire non compatible"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Format de mémoire de terminal non compatible"
+
+msgid "card_ib_usb_disconnected"
+msgstr "Câble USB déconnecté"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Connexion USB impossible.\n"
+"Mémoire du terminal en cours d'utilisation."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Connexion USB impossible.\n"
+"Mémoires en cours d'utilisation.\n"
+"Mémoire du terminal\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Formatage de la mémoire"
+
+msgid "card_ti_corrupted_card"
+msgstr "Carte mémoire endommagée"
+
+msgid "card_ti_corrupted_device"
+msgstr "Mémoire du terminal endommagée"
+
+msgid "cards_connected_via_usb"
+msgstr "Connecté par USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Mémoire du terminal saturée.\n"
+"Supprimez des données pour libérer de la mémoire."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Carte mémoire saturée.\n"
+"Supprimez des données pour libérer de la mémoire."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Mémoire système du terminal saturée.\n"
+"Pour libérer de la mémoire, utilisez le Gestionnaire d'applications pour "
+"supprimer des applications."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Arrêter"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Fermer"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Il y a trop d'applications ouvertes.\n"
+"Impossible d'ouvrir des applications supplémentaires sans en fermer d'autres."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Il y a trop d'applications ouvertes.\n"
+"Impossible de passer à l'application demandée sans en fermer d'autres."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Opération temporairement désactivée : mémoire bientôt saturée"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Erreur interne. Fermeture de l'application %s."
+
+msgid "memr_ti_close_applications"
+msgstr "Fermer les applications"

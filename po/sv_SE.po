@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Endast enhetens lagring är ansluten. %s används redan."
+
+msgid "card_connected_via_usb_device"
+msgstr "Endast %s ansluten. Enhetens lagring används."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Minnet är skrivskyddat tills det åtgärdas.\n"
+"Försök att åtgärda minnet med en dator när du har anslutit USB-kabeln.\n"
+"Skapa säkerhetskopia av data först så att det befintliga minnesinnehållet "
+"sparas."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formateringen är klar"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Minneskortets format stöds inte"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Enhetens lagringsformat stöds inte"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB-kabeln är urkopplad"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Det gick inte att ansluta via USB.\n"
+"Enhetens lagring används redan."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Det gick inte att ansluta via USB.\n"
+"Minnena används redan.\n"
+"Enhetens lagring\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Formaterar minnet"
+
+msgid "card_ti_corrupted_card"
+msgstr "Minneskortet är skadat"
+
+msgid "card_ti_corrupted_device"
+msgstr "Enhetens lagring är skadad"
+
+msgid "cards_connected_via_usb"
+msgstr "Ansluten via USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Enhetens lagringsminne är fullt.\n"
+"Frigör minne genom att ta bort data."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Minneskortet är fullt.\n"
+"Frigör minne genom att ta bort data."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Enhetens systemlagringsminne är fullt.\n"
+"Frigör minne genom att ta bort program via Programhanteraren."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Stopp"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Stäng"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"För många program öppna.\n"
+"Det går inte att öppna fler program utan att stänga några."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"För många program öppna.\n"
+"Det går inte att byta till det begärda programmet utan att stänga några."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Åtgärden har tillfälligt inaktiverats på grund av för lite minne"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Internt fel. Programmet '%s' har stängts."
+
+msgid "memr_ti_close_applications"
+msgstr "Stäng programmen"

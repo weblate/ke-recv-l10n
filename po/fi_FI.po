@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Vain laitteen muisti on muodostanut yhteyden. %s on jo käytössä."
+
+msgid "card_connected_via_usb_device"
+msgstr "Vain %s on muodostanut yhteyden. Laitteen muisti on käytössä."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Ennen korjausta muistiin on vain lukuoikeudet.\n"
+"Yritä korjata muisti tietokoneella USB-kaapelin liittämisen jälkeen.\n"
+"Tallenna ensin nykyisen muistin sisältö varmuuskopioimalla tiedot."
+
+msgid "card_ib_formatting_complete"
+msgstr "Alustus valmis"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Muistikortin formaattia ei tueta"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Laitteen muistin muotoa ei tueta"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB-kaapeliyhteys katkaistu"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Yhteyttä ei voi muodostaa USB:n kautta.\n"
+"Laitteen muisti käytössä."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Yhteyttä ei voi muodostaa USB:n kautta.\n"
+"Muistit käytössä.\n"
+"Laiteen muisti\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Alustetaan muistia"
+
+msgid "card_ti_corrupted_card"
+msgstr "Muistikortti viallinen"
+
+msgid "card_ti_corrupted_device"
+msgstr "Laitteen muisti viallinen"
+
+msgid "cards_connected_via_usb"
+msgstr "USB-yhteys muodostettu"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Laitteen muisti täynnä.\n"
+"Vapauta muistia poistamalla tietoja."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Muistikortti täynnä.\n"
+"Vapauta muistia poistamalla tietoja."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Laitteen muisti täynnä.\n"
+"Vapauta muistia poistamalla sovelluksia Sovellusten hallinnassa."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Lopeta"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Sulje"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Liian monta sovellusta auki.\n"
+"Uusia sovelluksia ei voi avata, ennen kuin osa aiemmista on suljettu."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Liian monta sovellusta auki.\n"
+"Valittuun sovellukseen ei voi siirtyä, ennen kuin osa aiemmista on suljettu."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Toiminto väliaikaisesti estetty. Muisti ei riitä."
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Sisäinen virhe. Sovellus '%s' suljettu."
+
+msgid "memr_ti_close_applications"
+msgstr "Sulje sovellukset"

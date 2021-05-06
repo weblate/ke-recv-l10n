@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Kun enhedslager tilsluttet. %s er allerede i brug."
+
+msgid "card_connected_via_usb_device"
+msgstr "Kun %s tilsluttet. Enhedslager i brug."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Hukommelsen er skrivebeskyttet, indtil den er blevet repareret.\n"
+"Forsøg at reparere hukommelsen med en pc ved at tilslutte et USB-kabel.\n"
+"Opret en sikkerhedskopi først for at gemme eksisterende indhold i "
+"hukommelsen."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formatering er udført"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Hukommelseskortets format understøttes ikke"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Enhedslagerets format understøttes ikke"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB-kablet er trukket ud"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Kan ikke oprette forbindelse via USB.\n"
+"Enhedslageret er i brug."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Kan ikke oprette forbindelse via USB.\n"
+"Hukommelser i brug.\n"
+"Enhedslager\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Formaterer hukommelse"
+
+msgid "card_ti_corrupted_card"
+msgstr "Hukommelseskort beskadiget"
+
+msgid "card_ti_corrupted_device"
+msgstr "Enhedslageret er beskadiget"
+
+msgid "cards_connected_via_usb"
+msgstr "Tilsluttet via USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Enhedslageret er fuldt.\n"
+"Fjern data for at frigøre hukommelse."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Hukommelseskortet er fuldt.\n"
+"Fjern data for at frigøre hukommelse."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Enhedens systemlager er fuldt.\n"
+"Fjern programmer via Programstyring for at frigøre hukommelse."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Stop"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Luk"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"For mange programmer åbne.\n"
+"Kan ikke åbne yderligere programmer uden at lukke nogle programmer."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"For mange programmer åbne.\n"
+"Kan ikke skifte til det ønskede program uden at lukke nogle programmer."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Handlingen er midlertidigt deaktiveret pga. lav hukommelse"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Intern fejl. Programmet '%s' er lukket."
+
+msgid "memr_ti_close_applications"
+msgstr "Luk programmer"

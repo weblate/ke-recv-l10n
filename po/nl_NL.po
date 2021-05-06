@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Alleen verbonden met opslag van apparaat. %s wordt al gebruikt."
+
+msgid "card_connected_via_usb_device"
+msgstr "Alleen %s verbonden. Opslag van apparaat in gebruik."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Geheugen is alleen-lezen tot het is gerepareerd.\n"
+"Sluit een USB-kabel aan op een pc en probeer het geheugen te repareren.\n"
+"Maak eerst een back-up van uw bestanden om bestaande inhoud op het geheugen "
+"te bewaren."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formatteren gereed"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Geheugenkaartindeling niet ondersteund"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Opslagindeling van apparaat niet ondersteund"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB-kabel niet aangesloten"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Kan geen verbinding maken via USB.\n"
+"Opslag van apparaat in gebruik."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Kan geen verbinding maken via USB.\n"
+"Geheugen in gebruik.\n"
+"Opslag van apparaat\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Geheugen wordt geformatteerd"
+
+msgid "card_ti_corrupted_card"
+msgstr "Geheugenkaart beschadigd"
+
+msgid "card_ti_corrupted_device"
+msgstr "Opslag van apparaat beschadigd"
+
+msgid "cards_connected_via_usb"
+msgstr "Verbonden via USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Opslag van apparaat vol.\n"
+"Verwijder gegevens om geheugen vrij te maken."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Geheugenkaart vol.\n"
+"Verwijder gegevens om geheugen vrij te maken."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Opslagsysteem van apparaat vol\n"
+"Verwijder toepassingen via Toepassingsbeheer om geheugen vrij te maken."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Stoppen"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Sluiten"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Te veel toepassingen geopend.\n"
+"Kan geen andere toepassingen openen als sommige toepassingen niet worden "
+"gesloten."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Te veel toepassingen geopend.\n"
+"Kan niet schakelen naar de gewenste toepassing als sommige toepassingen niet "
+"worden gesloten."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Bewerking tijdelijk uitgeschakeld vanwege onvoldoende geheugen"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Interne fout. Toepassing '%s' gesloten."
+
+msgid "memr_ti_close_applications"
+msgstr "Toepassingen sluiten"

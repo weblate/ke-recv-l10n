@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Bare enhetens lagringsminne er tilkoblet. %s er allerede i bruk."
+
+msgid "card_connected_via_usb_device"
+msgstr "Bare %s er tilkoblet. Enhetens lagringsminne er i bruk."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Minnet er skrivebeskyttet til det repareres.\n"
+"Prøv å reparere minnet med en PC som du kobler til via en USB-kabel.\n"
+"Sikkerhetskopier dataene først for å ta vare på det eksisterende innholdet i "
+"minnet."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formatering er fullført"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Formatet på minnekortet støttes ikke"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Formatet på enhetens lagringsminne støttes ikke"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB-kabel er koblet fra"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Kan ikke koble til via USB.\n"
+"Enhetens lagringsminne er i bruk."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Kan ikke koble til via USB.\n"
+"Minnene er i bruk.\n"
+"Enhetens lagringsminne\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Formaterer minne"
+
+msgid "card_ti_corrupted_card"
+msgstr "Minnekortet er ødelagt"
+
+msgid "card_ti_corrupted_device"
+msgstr "Enhetens lagringsminne er ødelagt"
+
+msgid "cards_connected_via_usb"
+msgstr "Koblet til via USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Enhetens lagringsminne er fullt.\n"
+"Fjern data for å frigjøre minne."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Minnekortet er fullt.\n"
+"Fjern data for å frigjøre minne."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Enhetens systemminne er fullt.\n"
+"Frigjør minne ved å fjerne programmer via Programbehandling."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Stopp"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Lukk"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"For mange programmer er åpne.\n"
+"Kan ikke åpne flere programmer uten at noen programmer lukkes."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"For mange programmer er åpne.\n"
+"Kan ikke bytte til det forespurte programmet uten at noen programmer lukkes."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Operasjonen ble deaktivert midlertidig på grunn av lite minne"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Intern feil. Programmet %s ble lukket."
+
+msgid "memr_ti_close_applications"
+msgstr "Lukk programmer"

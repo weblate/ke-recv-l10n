@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009.05.29 14:09+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Подключена только память устройства. %s уже используется."
+
+msgid "card_connected_via_usb_device"
+msgstr "Подключено только: %s. Используется память устройства."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"До исправления память доступна только для чтения.\n"
+"Попробуйте исправить память при помощи ПК после подключения USB-кабеля.\n"
+"Сначана выполните резервное копирование данных, чтобы сохранить содержимое "
+"карты памяти."
+
+msgid "card_ib_formatting_complete"
+msgstr "Форматирование завершено"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Формат карты памяти не поддерживается"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Формат памяти устройства не поддерживается"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB-кабель отсоединен"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Не удается установить соединение через USB.\n"
+"Память устройства используется."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Не удается установить соединение через USB.\n"
+"Память используется.\n"
+"Устройство:\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Форматирование памяти"
+
+msgid "card_ti_corrupted_card"
+msgstr "Карта памяти повреждена"
+
+msgid "card_ti_corrupted_device"
+msgstr "Память устройства повреждена"
+
+msgid "cards_connected_via_usb"
+msgstr "Соединение через USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Память устройства заполнена.\n"
+"Для освобождения памяти удалите данные."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Карта памяти заполнена.\n"
+"Для освобождения памяти удалите данные."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Системная память устройства заполнена.\n"
+"Удалите приложения с помощью Диспетчера приложений, чтобы освободить память."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Остановить"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Закрыть"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Открыто слишком много приложений.\n"
+"Не удается открыть другие приложения без закрытия некоторых приложений."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Открыто слишком много приложений.\n"
+"Не удается переключиться на нужное приложение без закрытия некоторых "
+"приложений."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Работа временно остановлена в связи с нехваткой памяти"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Внутренняя ошибка. Приложение %s закрыто."
+
+msgid "memr_ti_close_applications"
+msgstr "Закройте приложения"
