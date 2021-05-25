@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2010-04-22 13:48+0200\n"
+"Last-Translator: iz <mo7iballah@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "فقط جهاز التخزين متصل. %s قيد الإستعمال."
+
+msgid "card_connected_via_usb_device"
+msgstr "فقط %s متصل. جهاز التخزين قيد الإستخدام."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"الذاكرة بوضع القراءة فقط.\n"
+"حاول تصليحها بواسطة الحاسوب بعد وصلها.\n"
+"انشئ نسخةإحتياطية للبيانات الاولية حفاظا على محتويات الذاكرة.."
+
+msgid "card_ib_formatting_complete"
+msgstr "إكتملت التهيئة"
+
+msgid "card_ib_unknown_format_card"
+msgstr "بنية بطاقة الذاكرة غير مدعومة"
+
+msgid "card_ib_unknown_format_device"
+msgstr "بنية جهاز التخزين غير مدعومة"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB تم فصل"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"USB غير قادر على الإتصال عن طريق.\n"
+"جهاز تخزين قيد استخدام."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"USB غير قادر على الإتصال عن طريق.\n"
+"الذاكرة قيد الإستخدام.\n"
+"سعة الجهاز\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "جاري تهيئة بطاقة الذاكرة"
+
+msgid "card_ti_corrupted_card"
+msgstr "بطاقة الذاكرة معطوبة"
+
+msgid "card_ti_corrupted_device"
+msgstr "تخزين الجهاز معطوب"
+
+msgid "cards_connected_via_usb"
+msgstr "USB موصول بـ"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"سعة التخزين ممتلئة.\n"
+"أزل بعض البيانات لتفريغ الذاكرة."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"بطاقة الذاكرة ممتلئة.\n"
+"أزل بعض البيانات لتفريغ الذاكرة."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"مساحة تخزين الجهاز ممتلئة.\n"
+"أزل بعض البيانات لتفريغ الذاكرة."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "توقيف"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "إغلاق"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"عدد كبير من التطبيقات مفتوح.\n"
+"غير قادر على فتح تطبيقات إضافية دون إغلاق تطبيقات اخرى."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"عدد كبير من التطبيقات مفتوح.\n"
+"غير قادر على الإنتقال إلى التطبيق المطلوب دون إغلاق تطبيقات اخرى."
+
+msgid "memr_ib_operation_disabled"
+msgstr "العملية اوقفت مؤقتا بسبب انخفاض الذاكرة"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "خطأ داخلي. التطبيق '%s' تم إغلاقه."
+
+msgid "memr_ti_close_applications"
+msgstr "أغلق التطبيقات"
+
