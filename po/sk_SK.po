@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2010-05-02 18:03+0200\n"
+"Last-Translator:\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Pripojená iba pamäť prístroja. %s sa už používa."
+
+msgid "card_connected_via_usb_device"
+msgstr "Pripojená iba karta %s. Pamäť prístroja sa používa."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"Pamäť je chránená proti zápisu, ak nebude opravená.\n"
+"Skúste ju opraviť po pripojení k PC pomocou USB káblu.\n"
+"Najskôr vytvorte zálohu dát, aby ste uchovali existujúci obsah pamäte."
+
+msgid "card_ib_formatting_complete"
+msgstr "Formátovanie dokončené"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Nepodporovaný formát pamäťovej karty"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Nepodporovaný formát pamäte prístroja"
+
+msgid "card_ib_usb_disconnected"
+msgstr "Kábel USB odpojený"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Nemožno pripojiť cez USB.\n"
+"Pamäť prístroja sa používa."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Nemožno pripojiť cez USB.\n"
+"Pamäte sa používajú.\n"
+"Pamäť prístroja\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Formátovanie pamäte"
+
+msgid "card_ti_corrupted_card"
+msgstr "Pamäťová karta poškodená"
+
+msgid "card_ti_corrupted_device"
+msgstr "Pamäť prístroja poškodená"
+
+msgid "cards_connected_via_usb"
+msgstr "Pripojené cez USB"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Pamäť prístroja plná.\n"
+"Uvolnite pamäť odstránením dát."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Pamäťová karta plná.\n"
+"Uvolnite pamäť odstránením dát."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Systémová pamäť prístroja plná.\n"
+"Uvolnite pamäť odstránením aplikácií pomocou Správcu aplikácií."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Zastaviť"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Zavrieť"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Príliš veľa otvorených aplikácií.\n"
+"Nemožno otvoriť ďalšie aplikácie bez ukončenia niektorých aplikácií."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Príliš veľa otvorených aplikácií.\n"
+"Nemožno prepnúť do požadovanej aplikácie bez ukončenia niektorých aplikácií."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Operácia dočasne nedostupná pre nedostatok pamäte"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Vnútorná chyba. Aplikácia '%s' zatvorená."
+
+msgid "memr_ti_close_applications"
+msgstr "Zavrite aplikácie"
