@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2010-03-05 15:49+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Csak az eszköztároló lett csatlakoztatva. %s használatban van."
+
+msgid "card_connected_via_usb_device"
+msgstr "Csak a(z) %s lett csatlakoztatva. Az eszköztároló használatban van."
+
+msgid "card_ia_corrupted"
+msgstr ""
+"A memória csak olvasható, írása ideiglenesen letitva!\n"
+"Készíts biztonsági mentést a memória tartalmáról, majd\n"
+"próbáld kijavítani egy számítógép segítségével\n"
+"USB-adatkapcsolati üzemmódban."
+
+msgid "card_ib_formatting_complete"
+msgstr "Sikeres formázás"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Memória kártya formátum nem támogatott"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Eszköz tároló formátum nem támogatott"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB kábel eltávolítva"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"Nem lehet csatlakozni USB-n.\n"
+"Az eszköztároló használatban."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"Nem lehet csatlakozni USB-n.\n"
+"Memóriák használatban.\n"
+"Eszköztároló\n"
+"%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Memória kártya formázása"
+
+msgid "card_ti_corrupted_card"
+msgstr "Memória kártya sérült"
+
+msgid "card_ti_corrupted_device"
+msgstr "Eszköztároló sérült"
+
+msgid "cards_connected_via_usb"
+msgstr "Csatlakoztatva USB-n"
+
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Eszköztároló megtelt.\n"
+"Távolíts el adatokat a hely felszabadításához."
+
+msgid "cerm_memory_card_full"
+msgstr ""
+"Memória kártya megtelt.\n"
+"Távolíts el adatokat a hely felszabadításához."
+
+msgid "cerm_system_memory_full"
+msgstr ""
+"Eszköz tároló megtelt.\n"
+"Távolíts el alkalmazásokat az Alkalmazás kezelővel."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Leállítás"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Bezárás"
+
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Túl sok alkalmazás van nyitva.\n"
+"Nem lehet megnyitni további alkalmazásokat, míg be nem zársz néhányat."
+
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Túl sok alkalmazás van nyitva.\n"
+"Nem lehet átváltani a kért alkalmazásra, míg be nem zársz néhányat."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Művelet átmenetileg leállítva, mert kevés a szabad memória"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Belső hiba. '%s' kilép."
+
+msgid "memr_ti_close_applications"
+msgstr "Alkalmazások bezárása"
+
