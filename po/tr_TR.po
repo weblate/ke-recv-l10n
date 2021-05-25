@@ -33,13 +33,16 @@ msgstr ""
 "Project-Id-Version: ke-recv 20090529140928\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.05.29 14:09+0300\n"
-"PO-Revision-Date: 2009-12-20 08:47+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2021-05-26 12:32+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"ke-recv-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 # Close Applications Dialog title
 msgid "memr_ti_close_applications"
@@ -138,7 +141,7 @@ msgstr "Sadece cihaz belleği bağlandı. %s zaten kullanımda."
 
 # Text in information banner Memory connected via USB cable (CON-INF010). Used when only one of the memories in the device can be connected to the PC, in this case the external memory card. The %s is the name of the external memory card.
 msgid "card_connected_via_usb_device"
-msgstr "Sadece %s bağlandı. Cihaz belleği zaten kullanımda. "
+msgstr "Yalnızca %s bağlandı. Aygıt depolama alanı kullanımda."
 
 # Information banner presented when a memory card is successfully formatted.
 msgid "card_ib_formatting_complete"
@@ -154,5 +157,4 @@ msgstr "Hafıza kartı formatı desteklenmiyor"
 
 # This note is shown to user when the device storage cannot be used, because the device doesn’t understand de format.
 msgid "card_ib_unknown_format_device"
-msgstr "Cihaz bellek formatı desteklenmiyor."
-
+msgstr "Aygıt depolama biçimi desteklenmiyor"
