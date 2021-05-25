@@ -1,0 +1,158 @@
+#
+# This file is part of ke-recv-l10n-public
+#
+# Copyright (C) 2006-2007 Nokia Corporation. All rights reserved.
+#
+# Contact: Mohammed Hassan <mohammed.2.hassan@nokia.com>
+#
+# Redistribution and use in source and binary forms, with or without modification,
+# are permitted provided that the following conditions are met:
+#
+#     Redistributions of source code must retain the above copyright notice,
+#     this list of conditions and the following disclaimer.
+#     Redistributions in binary form must reproduce the above copyright notice,
+#     this list of conditions and the following disclaimer in the documentation and/or
+#     other materials provided with the distribution.
+#     Neither the name of Nokia Corporation nor the names of its contributors may be used
+#     to endorse or promote products derived from this software without specific prior written
+#     permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+# THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+# OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ke-recv 20090529140928\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2009-12-20 08:47+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+# Close Applications Dialog title
+msgid "memr_ti_close_applications"
+msgstr "Uygulamaları kapat"
+
+# Information text in Close Applications Dialog when user tries to open a new application.
+msgid "memr_ia_close_applications_opening"
+msgstr ""
+"Çok fazla uygulama açık.\n"
+"Bazı uygulamalar kapatılmadan yenileri açılamıyor."
+
+# Information text in Close Applications Dialog when user tries to switch to background killed application.
+msgid "memr_ia_close_applications_switching"
+msgstr ""
+"Çok fazla uygulama açık.\n"
+"Bazı uygulamalar kapatılmadan istenen uygulamaya geçilemiyor."
+
+# Label in Close Applications Dialog for list of applications
+msgid "memr_ia_close_applications_application_list"
+msgstr "Kapat"
+
+# OK Button in Close Applications Dialog
+msgid "memr_bd_close_applications_ok"
+msgstr "Dur"
+
+# Text for Device storage full Information Note (MEM-NOT001), presented by the application when there is so little free Flash memory that application cannot function properly. The %s may be a empty string or a string containing clarification from using application, if the application wants to tell the user what it cannot do, because of the memory shortage. CEL [4] constant: CERM_DEVICE_MEMORY_FULL
+msgid "cerm_device_memory_full"
+msgstr ""
+"%s\n"
+"Cihazın belleği dolu.\n"
+"Belleği boşaltmak için veri silin."
+
+# Text for Memory card full Information Note (MEM-NOT002), presented by the application when there is so little free memory on the memory card that application cannot perform the required operation. CEL [4] constant: CERM_MEMORY_CARD_FULL
+msgid "cerm_memory_card_full"
+msgstr ""
+"Hafıza kartı dolu.\n"
+"Hafızayı boşaltmak için veri silin."
+
+# Text for system partition full Information Note, presented by the application when there is too little free memor on the system partition of the memory. This memory is special because the user cannot see it from the File Manager. The Application Manager should be translated to reflect the logical id ai_ap_application_installer.
+msgid "cerm_system_memory_full"
+msgstr ""
+"Cihazın sistem belleği dolu.\n"
+"Uygulama yöneticisinden bazı uygulamalar kaldırarak boşaltın."
+
+# Text for Application closed internal error Information Note (MEM-NOT003), presented by the system when application was closed due the shortage of system resources or because of an internal error, since the reason cannot be pinpointed. (The %s is the name of the application that was closed.)
+msgid "memr_ni_application_closed_no_resources"
+msgstr "İçsel hata. Uygulama '%s' kapatıldı."
+
+# Text for Operation disabled Information Banner (MEM-INF001), presented by the application when a function in application is disabled and user tries to initiate the function.
+msgid "memr_ib_operation_disabled"
+msgstr "Düşük bellek sebebiyle işlem geçici olarak etkisizleşti"
+
+# Dialog title, when the device storage is the corrupted memory.
+msgid "card_ti_corrupted_device"
+msgstr "Cihaz belleği bozuldu"
+
+# Dialog title, when the memory card is the corrupted memory.
+msgid "card_ti_corrupted_card"
+msgstr "Hafıza kartı bozuldu"
+
+# This dialog is shown to the user when the memory card is found corrupted. The dialog should briefly tell the user that:
+# 1. The memory (either memory card or device’s memory, specified in the title of the dialog) can not be used to write data to it, it's read-only. This will continue to be the case until the memory is somehow fixed.
+# 2. The user can try to fix the card with PC (there's the repair function in the PC end, the name and place can change between OS, so that's why it's not mentioned more clearly). There will be more information in user guidance.
+# 3. Only way to ensure that the data stored to the memory is safe is to back it up some where right away. If left to memory, it might get corrupted beyond repairing.
+msgid "card_ia_corrupted"
+msgstr ""
+"Düzeltilene kadar bellek salt okunurdur.\n"
+"Belleği düzeltmek için USB kablosu ve PCnizi kullanın.\n"
+"Bellek içeriğini korumak için bir veri yedeği almalısınız."
+
+# Text for Memory card in use USB notification (MMC-NOT011), presented by the system when user plugs in the USB cable and internal memory is in use.
+msgid "card_ni_usb_failed_card_in_use"
+msgstr ""
+"USB üzerinden bağlanılamadı.\n"
+"Cihazın belleği kullanımda."
+
+# Text for Memory card in use USB notification, presented by the system when user plugs in the USB cable and memory cards are in use. The variable (%s) is the name of external memory card
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr ""
+"USB üzerinden bağlanılamadı.\n"
+"Bellekler kullanımda.\n"
+"Cihaz belleği\n"
+"%s"
+
+# Formatting memory card Progress banner (MMC-NOT015) text
+msgid "card_nw_formatting_memory_card"
+msgstr "Hafıza kartı biçimlendiriliyor"
+
+# Text in information banner Connected via USB cable (CON-INF009). Used when both memories are connected to the PC.
+msgid "cards_connected_via_usb"
+msgstr "USB üzerinden bağlanıldı"
+
+# Text in information banner Memory connected via USB cable (CON-INF010). Used when only one of the memories in the device can be connected to the PC, in this case the device storage. The %s is the name of the external memory card.
+msgid "card_connected_via_usb_card"
+msgstr "Sadece cihaz belleği bağlandı. %s zaten kullanımda."
+
+# Text in information banner Memory connected via USB cable (CON-INF010). Used when only one of the memories in the device can be connected to the PC, in this case the external memory card. The %s is the name of the external memory card.
+msgid "card_connected_via_usb_device"
+msgstr "Sadece %s bağlandı. Cihaz belleği zaten kullanımda. "
+
+# Information banner presented when a memory card is successfully formatted.
+msgid "card_ib_formatting_complete"
+msgstr "Biçimlendirme tamamlandı"
+
+# Information banner presented when a USB cable is disconnected from device and memory card becomes available in the device.
+msgid "card_ib_usb_disconnected"
+msgstr "USB kablosu çıkarıldı"
+
+# This note is shown to user when the memory card cannot be used, because the device doesn’t understand de format.
+msgid "card_ib_unknown_format_card"
+msgstr "Hafıza kartı formatı desteklenmiyor"
+
+# This note is shown to user when the device storage cannot be used, because the device doesn’t understand de format.
+msgid "card_ib_unknown_format_device"
+msgstr "Cihaz bellek formatı desteklenmiyor."
+
