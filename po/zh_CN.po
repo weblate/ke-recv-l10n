@@ -1,0 +1,84 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "只有设备存储被连接. %s 正在使用中."
+
+msgid "card_connected_via_usb_device"
+msgstr "只有 %s 被连接. 设备存储正在使用中."
+
+msgid "card_ia_corrupted"
+msgstr "未修复前请将USB连接电脑用以尝试修复内存.\n首先请创建数据备份来保存已经存在的内容."
+
+msgid "card_ib_formatting_complete"
+msgstr "格式化完成"
+
+msgid "card_ib_unknown_format_card"
+msgstr "存储卡格式不被支持"
+
+msgid "card_ib_unknown_format_device"
+msgstr "设备存储格式不被支持"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB连接断开"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr "无法通过USB连接.\n设备存储正在使用中."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr "无法通过USB连接.\n存储卡被占用.\n设备存储\n%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "正在格式化存储卡"
+
+msgid "card_ti_corrupted_card"
+msgstr "存储卡已损坏"
+
+msgid "card_ti_corrupted_device"
+msgstr "设备存储已损坏"
+
+msgid "cards_connected_via_usb"
+msgstr "已通过USB连接"
+
+msgid "cerm_device_memory_full"
+msgstr "%s\n设备存储已满.\n请删除一些数据以释放内存."
+
+msgid "cerm_memory_card_full"
+msgstr "存储卡已满.\n请删除一些数据以释放内存."
+
+msgid "cerm_system_memory_full"
+msgstr "设备系统空间已满.\n请通过程序管理器删除一些应用程序以释放内存."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "停止"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "关闭"
+
+msgid "memr_ia_close_applications_opening"
+msgstr "太多应用程序被打开.\n无法打开应用程序"
+
+msgid "memr_ia_close_applications_switching"
+msgstr "太多应用程序被打开.\n无法切换应用程序"
+
+msgid "memr_ib_operation_disabled"
+msgstr "由于内存不足,操作暂时停用."
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "系统内部错误. 应用程序 '%s' 被迫关闭."
+
+msgid "memr_ti_close_applications"
+msgstr "关闭应用程序"
