@@ -1,0 +1,84 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Свързано е само като съхраняващо устройство. %s вече се използва."
+
+msgid "card_connected_via_usb_device"
+msgstr "Само %s е свързано. Съхраняващото устройство се използва."
+
+msgid "card_ia_corrupted"
+msgstr "Паметта е в режим само за четене докато не бъде поправена. \nОпитайте да я поправите с компютъра, след като включите USB кабел.\nПърво направете резервно копие за да запазите съдържанието на паметта."
+
+msgid "card_ib_formatting_complete"
+msgstr "Форматирането завърши"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Неподдържан формат на картата-памет"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Неподдържан формат на съхраняващото устройство"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB кабелът бе разкачен"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr "Неуспешна връзка чрез USB.\nСъхраняващото устройство се използва."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr "Неуспешна връзка чрез USB.\nПаметите се използват. Съхраняващо устройство\n%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Форматиране на картата-памет"
+
+msgid "card_ti_corrupted_card"
+msgstr "Картата-памет е повредена"
+
+msgid "card_ti_corrupted_device"
+msgstr "Съхраняващото устройство е повредено"
+
+msgid "cards_connected_via_usb"
+msgstr "Свързано чрез USB"
+
+msgid "cerm_device_memory_full"
+msgstr "%s\nСъхраняващото устройство е пълно.\nИзтрийте някои данни за да освободите място."
+
+msgid "cerm_memory_card_full"
+msgstr "Картата-памет е пълна.\nИзтрийте някои данни за да освободите място."
+
+msgid "cerm_system_memory_full"
+msgstr "Системното съхраняващо устройство е пълно.\nПремахнете някое приложение чрез Управлението на приложения."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Спиране"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Затваряне"
+
+msgid "memr_ia_close_applications_opening"
+msgstr "Отворени са твърде много приложения.\nЗатворете някое преди да се опитвате да отворите ново."
+
+msgid "memr_ia_close_applications_switching"
+msgstr "Отворени са твърде много приложения.\nЗатворете някое преди да превключите към желаното. "
+
+msgid "memr_ib_operation_disabled"
+msgstr "Поради малкото памет действието временно е забранено."
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Вътрешна грешка. Приложението '%s' бе затворено."
+
+msgid "memr_ti_close_applications"
+msgstr "Затваряне на приложенията"
