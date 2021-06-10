@@ -1,0 +1,85 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2012-02-07 10:16+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "Dim ond storfa'r dyfais wedi ei gysylltu. %s eisoes mewn defnydd"
+
+msgid "card_connected_via_usb_device"
+msgstr "Dim ond %s wedi ei gysylltu. Storfa'r dyfais eisoes mewn defnydd"
+
+msgid "card_ia_corrupted"
+msgstr "Cof mewn modd darllen-yn-unig nes y caiff ei drwsio. Gallwch geisio wneud hyn gyda PC wedi cysylltu cebl USB. Crëwch copi wrth gefn yn gyntaf."
+
+msgid "card_ib_formatting_complete"
+msgstr "Cwblhawyd fformadu"
+
+msgid "card_ib_unknown_format_card"
+msgstr "Cerdyn cof mewn fformad anghydnaws"
+
+msgid "card_ib_unknown_format_device"
+msgstr "Storfa'r dyfais mewn fformad anghydnaws"
+
+msgid "card_ib_usb_disconnected"
+msgstr "Datgysylltwyd y cebl USB"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr "Methu cysylltu drwy USB. Storfa'r dyfais mewn defnydd."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr "Methu cysylltu drwy USB. Cof mewn defnydd. Storfa dyfais %s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "Yn fformadu'r cerdyn cof"
+
+msgid "card_ti_corrupted_card"
+msgstr "Cerdyn cof wedi ei lygru"
+
+msgid "card_ti_corrupted_device"
+msgstr "Storfa'r dyfais wedi ei lygru"
+
+msgid "cards_connected_via_usb"
+msgstr "Cysylltwyd drwy USB"
+
+msgid "cerm_device_memory_full"
+msgstr "%s Storfa'r dyfais yn llawn. Tynnwch data i ryddhau cof."
+
+msgid "cerm_memory_card_full"
+msgstr "Cerdyn cof yn llawn. Tynnwch data i ryddhau cof."
+
+msgid "cerm_system_memory_full"
+msgstr "Storfa system y dyfais yn llawn. Tynnwch raglenni drwy'r Rheolwr rhaglenni i ryddhau cof."
+
+msgid "memr_bd_close_applications_ok"
+msgstr "Atal"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "Cau"
+
+msgid "memr_ia_close_applications_opening"
+msgstr "Gormod o raglenni ar agor. Methu agor mwy o raglenni heb gau rhai eraill."
+
+msgid "memr_ia_close_applications_switching"
+msgstr "Gormod o raglenni ar agor. Methu newid at y rhaglen a geisiwyd heb gau rhai eraill."
+
+msgid "memr_ib_operation_disabled"
+msgstr "Analluogwyd y weithred dros dro oherwydd diffyg cof"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "Gwall mewnol. Caewyd rhaglen '%s'."
+
+msgid "memr_ti_close_applications"
+msgstr "Cau rhaglenni"
