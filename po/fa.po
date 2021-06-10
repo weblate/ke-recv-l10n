@@ -1,0 +1,84 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2011-11-06 15:11+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "در حال حاضر مشغول است. %s .فقط حافظه‌ی دستگاه متصل شد."
+
+msgid "card_connected_via_usb_device"
+msgstr "متصل شده. حافظه‌ی دستگاه مشغول است. %s فقط"
+
+msgid "card_ia_corrupted"
+msgstr "کارت حافظه فعلا تا رفع مشکل ، فقط قابل خواندن است .\nبرای رفع مشکل از یک کامپیوتر استفاده کنید پس از اتصال کابل یواس‌بی\nابتدا از محتویات موجود در حافظه نسخه ی پشتیبان بگیرید"
+
+msgid "card_ib_formatting_complete"
+msgstr "عملیات فرمت کردن کامل شد"
+
+msgid "card_ib_unknown_format_card"
+msgstr "فرمت کارت حافظه پشتیبانی نمی‌شود"
+
+msgid "card_ib_unknown_format_device"
+msgstr "فرمت دستگاه ذخیره سازی پشتیبانی نشده است"
+
+msgid "card_ib_usb_disconnected"
+msgstr "کابل یواس‌بی قطع شد"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr "امکان اتصال از طریق کابل یو‌اس‌بی وجود ندارد.\nحافظه‌ی دستگاه مشغول است."
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr "امکان اتصال از طریق کابل یو‌اس‌بی وجود ندارد.\n حافظه‌ها مشغول هستند.\nحافظه‌ی دستگاه\n%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "در حال فرمت کردن کارت حافظه"
+
+msgid "card_ti_corrupted_card"
+msgstr "کارت حافظه خراب است"
+
+msgid "card_ti_corrupted_device"
+msgstr "حافظه‌ی دستگاه"
+
+msgid "cards_connected_via_usb"
+msgstr "متصل شده از طریق یواس‌بی"
+
+msgid "cerm_device_memory_full"
+msgstr "%s\nحافظه‌ی دستگاه پر است.\nبرای آزاد سازی ظرفیت حافظه ، مفداری از اطلاعات را حذف کنید."
+
+msgid "cerm_memory_card_full"
+msgstr "کارت حافظه پر است.\nبرای آزاد سازی ظرفیت حافظه ، مفداری از اطلاعات را حذف کنید."
+
+msgid "cerm_system_memory_full"
+msgstr "فضای نصب نرم‌افزار ها پر شده است\nبرای آزاد سازی حافظه ، بعضی از برنامه ها را از طریق مدیریت برنامه پاک کنید"
+
+msgid "memr_bd_close_applications_ok"
+msgstr "توقف"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "بستن"
+
+msgid "memr_ia_close_applications_opening"
+msgstr "برنامه های زیادی باز هستند.\nامکان اجرا کردن برنامه های اضافی قبل از بستن برنامه های فعلی وجود ندارد."
+
+msgid "memr_ia_close_applications_switching"
+msgstr "برنامه های زیادی باز هستند.\nامکان جابجایی بین نرم افزارها بدون بستن تعدادی از نرم‌افزار‌ها مقدور نمی‌باشد."
+
+msgid "memr_ib_operation_disabled"
+msgstr "عملیات به علت کمبود حافظه بطور موقت غیر فعال شد"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "خطای داخلی. برنامه‌ی '%s' بسته شد."
+
+msgid "memr_ti_close_applications"
+msgstr "بستن برنامه‌ها"
