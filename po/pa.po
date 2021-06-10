@@ -1,0 +1,84 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.29 14:09+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "card_connected_via_usb_card"
+msgstr "ਕੇਵਲ ਜੰਤਰ ਸਟੋਰੇਜ਼ ਕੁਨੈਕਟ ਹੈ। %s ਪਹਿਲਾਂ ਹੀ ਵਰਤੋਂ ਵਿੱਚ ਹੈ।"
+
+msgid "card_connected_via_usb_device"
+msgstr "ਕੇਵਲ %s ਕੁਨੈਕਟ ਹੈ। ਜੰਤਰ ਸਟੋਰੇਜ਼ ਵਰਤੋਂ ਅਧੀਨ ਹੈ।"
+
+msgid "card_ia_corrupted"
+msgstr "ਮੈਮੋਰੀ ਠੀਕ ਹੋਣ ਤੱਕ ਪੜ੍ਹਨ-ਲਈ ਹੀ ਹੈ।\nUSB ਕੇਬਲ ਲਗਾ ਕੇ ਕੰਪਿਊਰ ਨਾਲ ਜੋੜੋ ਅਤੇ ਮੈਮੋਰੀ ਠੀਕ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।\nਮੌਜੂਦਾ ਮੈਮੋਰੀ ਸਮੱਗਰੀ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਪਹਿਲਾਂ ਬੈਕਅੱਪ ਲੈ ਲਵੋ ਜੀ।"
+
+msgid "card_ib_formatting_complete"
+msgstr "ਫਾਰਮੈਟ ਕਰਨਾ ਪੂਰਾ ਹੋਇਆ।"
+
+msgid "card_ib_unknown_format_card"
+msgstr "ਮੈਮੋਰੀ ਕਾਰਡ ਫਾਰਮੈਟ ਨਾ-ਸਹਾਇਕ ਹੈ"
+
+msgid "card_ib_unknown_format_device"
+msgstr "ਜੰਤਰ ਸਟੋਰੇਜ਼ ਫਾਰਮੈਟ ਗ਼ੈਰ-ਸਹਾਇਕ"
+
+msgid "card_ib_usb_disconnected"
+msgstr "USB ਕੇਬਲ ਡਿਸ-ਕੁਨੈਕਟ ਕੀਤੀ ਗਈ।"
+
+msgid "card_ni_usb_failed_card_in_use"
+msgstr "USB ਰਾਹੀਂ ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ।\nਜੰਤਰ ਸਟੋਰੇਜ਼ ਵਿੱਚ ਵਰਤੋਂ।"
+
+msgid "card_ni_usb_failed_cards_in_use"
+msgstr "USB ਰਾਹੀਂ ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ।\nਮੈੋਮਰੀ ਵਰਤੋਂ ਵਿੱਚ ਹੈ।\nਜੰਤਰ ਸਟੋਰੇਜ਼\n%s"
+
+msgid "card_nw_formatting_memory_card"
+msgstr "ਮੈਮੋਰੀ ਕਾਰਡ ਫਾਰਮੈਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "card_ti_corrupted_card"
+msgstr "ਮੈਮੋਰੀ ਕਾਰਡ ਨਿਕਾਰਾ ਹੈ"
+
+msgid "card_ti_corrupted_device"
+msgstr "ਜੰਤਰ ਸਟੋਰੇਜ਼ ਨਿਕਾਰਾ ਹੈ"
+
+msgid "cards_connected_via_usb"
+msgstr "USB ਰਾਹੀਂ ਕੁਨੈਕਟ ਹੈ"
+
+msgid "cerm_device_memory_full"
+msgstr "%s\nਜੰਤਰ ਸਟੋਰੇਜ਼ ਭਰ ਗਈ ਹੈ।\nਮੈਮੋਰੀ ਖਾਲੀ ਕਰਨ ਵਾਸਤੇ ਡਾਟਾ ਹਟਾਓ।"
+
+msgid "cerm_memory_card_full"
+msgstr "ਮੈਮੋਰੀ ਕਾਰਡ ਭਰ ਗਿਆ ਹੈ।\nਮੈਮੋਰੀ ਖਾਲੀ ਕਰਨ ਲਈ ਡਾਟਾ ਹਟਾਉ।"
+
+msgid "cerm_system_memory_full"
+msgstr "ਜੰਤਰ ਸਿਸਟਮ ਸਟੋਰੇਜ਼ ਭਰ ਗਈ ਹੈ।\nਮੈਮੋਰੀ ਖਾਲੀ ਕਰਨ ਵਾਸਤੇ ਐਪਲੀਕੇਸ਼ਨ ਮੈਨੇਜਰ ਰਾਹੀਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਹਟਾਓ।"
+
+msgid "memr_bd_close_applications_ok"
+msgstr "ਰੋਕੋ"
+
+msgid "memr_ia_close_applications_application_list"
+msgstr "ਬੰਦ ਕਰੋ"
+
+msgid "memr_ia_close_applications_opening"
+msgstr "ਬਹੁਤ ਸਾਰੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਖੁੱਲ੍ਹੀਆਂ ਹਨ।\nਕੁਝ ਖੁੱਲ੍ਹੀਆਂ ਨੂੰ ਬੰਦ ਕੀਤੇ ਬਿਨਾਂ ਹੋਰ ਐਪਲੀਕੇਸ਼ਨਾਂ ਖੋਲ੍ਹੀਆਂ ਨਹੀਂ ਜਾ ਸਕਦੀਆਂ।"
+
+msgid "memr_ia_close_applications_switching"
+msgstr "ਬਹੁਤ ਸਾਰੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਖੁੱਲ੍ਹੀਆਂ ਹਨ।\nਕੁਝ ਖੁੱਲ੍ਹੀਆਂ ਨੂੰ ਬੰਦ ਕੀਤੇ ਬਿਨਾਂ ਹੋਰ ਐਪਲੀਕੇਸ਼ਨਾਂ ਉੱਤੇ ਨਹੀਂ ਜਾਇਆ ਜਾ ਸਕਦਾ।"
+
+msgid "memr_ib_operation_disabled"
+msgstr "ਘੱਟ ਮੈਮੋਰੀ ਹੋਣ ਕਰਕੇ ਕਾਰਵਾਈ ਨੂੰ ਆਰਜ਼ੀ ਰੂਪ ਵਿੱਚ ਬੰਦ ਕੀਤਾ ਗਿਆ ਹੈ।"
+
+msgid "memr_ni_application_closed_no_resources"
+msgstr "ਅੰਦਰੂਨੀ ਗਲਤੀ। ਐਪਲੀਕੇਸ਼ਨ '%s' ਬੰਦ ਹੋਈ।"
+
+msgid "memr_ti_close_applications"
+msgstr "ਐਪਲੀਕੇਸ਼ਨਾਂ ਬੰਦ ਕਰੋ"
