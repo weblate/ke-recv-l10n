@@ -33,8 +33,8 @@ msgstr ""
 "Project-Id-Version: ke-recv 20090529140928\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.05.29 14:09+0300\n"
-"PO-Revision-Date: 2021-05-26 12:32+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "ke-recv-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -42,7 +42,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 # Close Applications Dialog title
 msgid "memr_ti_close_applications"
@@ -72,7 +72,7 @@ msgstr "Dur"
 msgid "cerm_device_memory_full"
 msgstr ""
 "%s\n"
-"Cihazın belleği dolu.\n"
+"Aygıt belleği dolu.\n"
 "Belleği boşaltmak için veri silin."
 
 # Text for Memory card full Information Note (MEM-NOT002), presented by the application when there is so little free memory on the memory card that application cannot perform the required operation. CEL [4] constant: CERM_MEMORY_CARD_FULL
@@ -84,7 +84,7 @@ msgstr ""
 # Text for system partition full Information Note, presented by the application when there is too little free memor on the system partition of the memory. This memory is special because the user cannot see it from the File Manager. The Application Manager should be translated to reflect the logical id ai_ap_application_installer.
 msgid "cerm_system_memory_full"
 msgstr ""
-"Cihazın sistem belleği dolu.\n"
+"Aygıt sistem belleği dolu.\n"
 "Uygulama yöneticisinden bazı uygulamalar kaldırarak boşaltın."
 
 # Text for Application closed internal error Information Note (MEM-NOT003), presented by the system when application was closed due the shortage of system resources or because of an internal error, since the reason cannot be pinpointed. (The %s is the name of the application that was closed.)
@@ -97,7 +97,7 @@ msgstr "Düşük bellek sebebiyle işlem geçici olarak etkisizleşti"
 
 # Dialog title, when the device storage is the corrupted memory.
 msgid "card_ti_corrupted_device"
-msgstr "Cihaz belleği bozuldu"
+msgstr "Aygıt belleği bozuldu"
 
 # Dialog title, when the memory card is the corrupted memory.
 msgid "card_ti_corrupted_card"
@@ -117,14 +117,14 @@ msgstr ""
 msgid "card_ni_usb_failed_card_in_use"
 msgstr ""
 "USB üzerinden bağlanılamadı.\n"
-"Cihazın belleği kullanımda."
+"Aygıt belleği kullanımda."
 
 # Text for Memory card in use USB notification, presented by the system when user plugs in the USB cable and memory cards are in use. The variable (%s) is the name of external memory card
 msgid "card_ni_usb_failed_cards_in_use"
 msgstr ""
 "USB üzerinden bağlanılamadı.\n"
 "Bellekler kullanımda.\n"
-"Cihaz belleği\n"
+"Aygıt belleği\n"
 "%s"
 
 # Formatting memory card Progress banner (MMC-NOT015) text
@@ -137,7 +137,7 @@ msgstr "USB üzerinden bağlanıldı"
 
 # Text in information banner Memory connected via USB cable (CON-INF010). Used when only one of the memories in the device can be connected to the PC, in this case the device storage. The %s is the name of the external memory card.
 msgid "card_connected_via_usb_card"
-msgstr "Sadece cihaz belleği bağlandı. %s zaten kullanımda."
+msgstr "Yalnızca aygıt belleği bağlandı. %s zaten kullanımda."
 
 # Text in information banner Memory connected via USB cable (CON-INF010). Used when only one of the memories in the device can be connected to the PC, in this case the external memory card. The %s is the name of the external memory card.
 msgid "card_connected_via_usb_device"
